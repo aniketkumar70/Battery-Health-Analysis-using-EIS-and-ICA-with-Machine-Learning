@@ -15,6 +15,16 @@ This project explores battery degradation using Electrochemical Impedance Spectr
 - Data is stored in `.mat` format with detailed experiment metadata.
 
 ---
+  ## Data Source
+
+The dataset can be found on Kaggle:
+
+🔗 [Battery Aging and EIS Dataset on Kaggle](https://www.kaggle.com/datasets/interacts/anticithhealthdataset)
+
+*Note: Make sure you are logged into your Kaggle account to download the dataset.*
+
+
+---
 
 ## Objectives
 
