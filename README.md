@@ -46,18 +46,6 @@ Build and evaluate a machine learning model to:
 
 ---
 
-## Deliverables
-
-- Python Jupyter Notebook with:
-  - Data loading and preprocessing
-  - 3D visualizations (EIS and ICA)
-  - Machine learning model code
-- Sample plots and figures
-- Requirements file (`requirements.txt`)
-- Dataset access instructions (link or steps)
-- Model performance metrics (R², MAE, etc.)
-
----
 
 ## Installation
 
