@@ -61,6 +61,6 @@ Build and evaluate a machine learning model to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/battery-health-eis-ica.git
+   git clone https://github.com/aniketkumar70/battery-health-eis-ica.git
    cd battery-health-eis-ica
 
